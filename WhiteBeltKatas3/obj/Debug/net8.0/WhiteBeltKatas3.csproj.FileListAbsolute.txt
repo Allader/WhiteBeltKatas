@@ -12,3 +12,4 @@ C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas3\obj\Debug\net8.0\ref
 C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas3\obj\Debug\net8.0\WhiteBeltKatas3.pdb
 C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas3\obj\Debug\net8.0\WhiteBeltKatas3.genruntimeconfig.cache
 C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas3\obj\Debug\net8.0\ref\WhiteBeltKatas3.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas3\obj\Debug\net8.0\WhiteBeltKatas3.sourcelink.json

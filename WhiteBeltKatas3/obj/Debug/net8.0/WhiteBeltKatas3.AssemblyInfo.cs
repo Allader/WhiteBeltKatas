@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhiteBeltKatas3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc973ec92cf8dd1001d24de4bf47e2f1a28de28f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhiteBeltKatas3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhiteBeltKatas3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
