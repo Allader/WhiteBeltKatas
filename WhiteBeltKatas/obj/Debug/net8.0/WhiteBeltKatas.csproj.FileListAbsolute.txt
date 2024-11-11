@@ -1,0 +1,14 @@
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\bin\Debug\net8.0\WhiteBeltKatas.exe
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\bin\Debug\net8.0\WhiteBeltKatas.deps.json
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\bin\Debug\net8.0\WhiteBeltKatas.runtimeconfig.json
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\bin\Debug\net8.0\WhiteBeltKatas.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\bin\Debug\net8.0\WhiteBeltKatas.pdb
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.AssemblyInfoInputs.cache
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.AssemblyInfo.cs
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.csproj.CoreCompileInputs.cache
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\refint\WhiteBeltKatas.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.pdb
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\WhiteBeltKatas.genruntimeconfig.cache
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\WhiteBeltKatas\obj\Debug\net8.0\ref\WhiteBeltKatas.dll

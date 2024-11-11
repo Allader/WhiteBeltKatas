@@ -1,0 +1,14 @@
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\bin\Debug\net8.0\MiniKata3.exe
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\bin\Debug\net8.0\MiniKata3.deps.json
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\bin\Debug\net8.0\MiniKata3.runtimeconfig.json
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\bin\Debug\net8.0\MiniKata3.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\bin\Debug\net8.0\MiniKata3.pdb
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.AssemblyInfoInputs.cache
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.AssemblyInfo.cs
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.csproj.CoreCompileInputs.cache
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\refint\MiniKata3.dll
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.pdb
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\MiniKata3.genruntimeconfig.cache
+C:\Users\nikod\RiderProjects\WhiteBeltKatas\MiniKata3\obj\Debug\net8.0\ref\MiniKata3.dll
