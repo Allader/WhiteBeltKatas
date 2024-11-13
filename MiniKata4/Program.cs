@@ -16,7 +16,7 @@ class Program
             Console.WriteLine($"Target Dummy #{i+1} spawned!"); 
         }
 
-        while (0 < maxEnemies)
+        while (0 > maxEnemies)
         {
            Console.WriteLine("Target Dummy has spawned!");
         } 
